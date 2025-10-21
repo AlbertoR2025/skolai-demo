@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alberto Reyes",
+    "especialidad": "Informática ",
+    "correo": "btoreyes@gmail.com"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Pablo Reyes",
+    "especialidad": "Matemáticas ",
+    "correo": "jpabloreyes@gmail.com"
+  }
+]
